@@ -1,6 +1,6 @@
 {
-  "name": "hz-project",
-  "version": "0.1.0",
+  "name": "tel-m-vue-cli3.0",
+  "version": "1.0.0",
   "private": true,
   "scripts": {
     "serve": "vue-cli-service serve",
